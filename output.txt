@@ -1,0 +1,297 @@
+
+Please name your character
+
+Name: [3J[H[2J
+Please select your own character (input A or B) or Load previous data (input L): 
+
+ A (atk = 15, def = 8, hp = 40):
+ B (atk = 8, def = 10, hp = 60):
+
+Input instruction: [3J[H[2J
+Below is your initial character status (Only show once)
+
+Name: name
+Character: A
+ATK: 15
+DEF: 8
+Current hp / HP : 40 / 40
+
+Please input the instruction below: 
+
+Press 'A' key : Adventure (Level 1 )
+Press 'S' key : Status
+Press 'Q' key : Leave
+
+Input instruction: [3J[H[2J
+Input the instruction C/c to continue or B/b to get back to the initial interface or S/s to Save current progress
+
+Input instruction: [3J[H[2J
+Here is level 1
+The monster you gonna fight is monster 1
+
+Monster Status : 
+Monster atk : 10
+Monster def : 0
+Monster HP (right now) : 30
+
+Your Status:
+Your atk : 15
+Your def : 8
+Your HP (right now) : 40/40
+Your MP (right now) : 0/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 10
+Monster def : 0
+Monster HP (right now) : 15
+
+Your Status:
+Your atk : 15
+Your def : 8
+Your HP (right now) : 38/40
+Your MP (right now) : 10/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J[3J[H[2J
+The monster has been slayed
+
+Option A : Choose one of three selection below : 
+atk + (3 to 7), def + (2 to 4) or hp + (10 to 20)
+
+Option B : Lucky draw (You have 50% to get the medicine, if not you can only choose one of (atk, def and hp) increase 1.)
+
+Input instruction : 
+choose A, B or C
+A : atk + 6
+B : def + 4
+C : hp + 13
+
+Input instruction: 
+Input the instruction C/c to continue or B/b to get back to the initial interface or S/s to Save current progress
+
+Input instruction: [3J[H[2J
+Here is level 2
+The monster you gonna fight is monster 2
+
+Monster Status : 
+Monster atk : 12
+Monster def : 3
+Monster HP (right now) : 30
+
+Your Status:
+Your atk : 21
+Your def : 8
+Your HP (right now) : 38/40
+Your MP (right now) : 0/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 12
+Monster def : 3
+Monster HP (right now) : 12
+
+Your Status:
+Your atk : 21
+Your def : 8
+Your HP (right now) : 34/40
+Your MP (right now) : 10/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J[3J[H[2J
+The monster has been slayed
+
+Option A : Choose one of three selection below : 
+atk + (3 to 7), def + (2 to 4) or hp + (10 to 20)
+
+Option B : Lucky draw (You have 50% to get the medicine, if not you can only choose one of (atk, def and hp) increase 1.)
+
+Input instruction : 
+choose A, B or C
+A : atk + 6
+B : def + 4
+C : hp + 13
+
+Input instruction: 
+Input the instruction C/c to continue or B/b to get back to the initial interface or S/s to Save current progress
+
+Input instruction: [3J[H[2J
+Here is level 3
+The monster you gonna fight is monster 3
+
+Monster Status : 
+Monster atk : 20
+Monster def : 0
+Monster HP (right now) : 35
+
+Your Status:
+Your atk : 27
+Your def : 8
+Your HP (right now) : 34/40
+Your MP (right now) : 0/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 20
+Monster def : 0
+Monster HP (right now) : 8
+
+Your Status:
+Your atk : 27
+Your def : 8
+Your HP (right now) : 22/40
+Your MP (right now) : 10/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J[3J[H[2J
+The monster has been slayed
+
+Option A : Choose one of three selection below : 
+atk + (3 to 7), def + (2 to 4) or hp + (10 to 20)
+
+Option B : Lucky draw (You have 50% to get the medicine, if not you can only choose one of (atk, def and hp) increase 1.)
+
+Input instruction : 
+choose A, B or C
+A : atk + 6
+B : def + 4
+C : hp + 13
+
+Input instruction: 
+Input the instruction C/c to continue or B/b to get back to the initial interface or S/s to Save current progress
+
+Input instruction: [3J[H[2J
+Here is level 4
+The monster you gonna fight is monster 4
+
+Monster Status : 
+Monster atk : 20
+Monster def : 0
+Monster HP (right now) : 50
+
+Your Status:
+Your atk : 33
+Your def : 8
+Your HP (right now) : 22/40
+Your MP (right now) : 0/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 20
+Monster def : 0
+Monster HP (right now) : 17
+
+Your Status:
+Your atk : 33
+Your def : 8
+Your HP (right now) : 10/40
+Your MP (right now) : 10/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J[3J[H[2J
+The monster has been slayed
+
+Option A : Choose one of three selection below : 
+atk + (3 to 7), def + (2 to 4) or hp + (10 to 20)
+
+Option B : Lucky draw (You have 50% to get the medicine, if not you can only choose one of (atk, def and hp) increase 1.)
+
+Input instruction : 
+choose A, B or C
+A : atk + 6
+B : def + 4
+C : hp + 13
+
+Input instruction: Input the instruction C/c to continue or B/b to get back to the initial interface or S/s to Save current progress
+
+Input instruction: [3J[H[2J
+[3J[H[2J
+Here is the boss
+
+Monster Status : 
+Monster atk : 25
+Monster def : 10
+Monster HP (right now) : 100
+
+Your Status:
+Your atk : 39
+Your def : 8
+Your HP (right now) : 40/40
+Your MP (right now) : 0/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 25
+Monster def : 10
+Monster HP (right now) : 71
+
+Your Status:
+Your atk : 39
+Your def : 8
+Your HP (right now) : 23/40
+Your MP (right now) : 10/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+Monster Status : 
+Monster atk : 25
+Monster def : 10
+Monster HP (right now) : 42
+
+Your Status:
+Your atk : 39
+Your def : 8
+Your HP (right now) : 6/40
+Your MP (right now) : 20/30
+Please folow the below instruction to slay the monster
+
+Option 1, press 'a' key: Normal attack
+Option 2, press 'p' key: Masterstroke (Only can be used while mp = 30)
+
+Input instruction: [3J[H[2J
+You are dead.
+
+Please input the instruction below: 
+
+Press 'A' key : Adventure (BOSS)
+Press 'S' key : Status
+Press 'Q' key : Leave
+
+Input instruction: [3J[H[2J
+END
+
